@@ -16,6 +16,5 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25"/>
 </p>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white/>
-![JunHui's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJunHui-dot&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimJunHui-dot&layout=compact)
+![JunHui's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunHui&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHui&layout=compact)
